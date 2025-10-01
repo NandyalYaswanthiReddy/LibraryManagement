@@ -1,0 +1,28 @@
+Java Programming
+Herbert Schildt
+9780135166307 5 5
+
+Python Crash Course
+Eric Matthes
+9781593279288 4 4
+
+Data Structures and Algorithms
+Narasimha Karumanchi
+9788193245272 3 3
+
+Clean Code
+Robert C. Martin
+9780132350884 1 2
+
+Computer Networks
+Andrew S. Tanenbaum
+9780132126953 3 3
+
+Operating System Concepts
+Abraham Silberschatz
+9781118063330 4 4
+
+Artificial Intelligence
+Stuart Russell
+9780136042594 2 2
+
